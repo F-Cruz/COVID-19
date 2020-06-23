@@ -1,6 +1,15 @@
 ## Welcome to page Covid-19
 
 You can use the [editor on GitHub](https://github.com/F-Cruz/COVID-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<script type='text/javascript' src='https://public.tableau.com/views/PainelLemobs/Painel1?:language=pt&:display_count=y&publish=yes&:origin=viz_share_link'></script>
+  <div class='tableauPlaceholder' style='width: 800px; height: 600px;' >
+  <object class='tableauViz' width='800' height='600' style='display:none;'>
+  <param name='host_url' value='https://public.tableau.com' />
+  <param name='site_root' value='' />
+  <param name='name' value='PainelLemobs/Painel1' />		
+  <param name='tabs' value='yes' />
+  <param name='toolbar' value='yes' />
+  <param name='filter' value=':original_view=yes' /></object></div>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,15 +20,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<script type='text/javascript' src='https://public.tableau.com/views/PainelLemobs/Painel1?:language=pt&:display_count=y&publish=yes&:origin=viz_share_link'></script>
-  <div class='tableauPlaceholder' style='width: 800px; height: 600px;' >
-  <object class='tableauViz' width='800' height='600' style='display:none;'>
-  <param name='host_url' value='https://public.tableau.com' />
-  <param name='site_root' value='' />
-  <param name='name' value='PainelLemobs/Painel1' />		
-  <param name='tabs' value='yes' />
-  <param name='toolbar' value='yes' />
-  <param name='filter' value=':original_view=yes' /></object></div>
 
 - Bulleted
 - List
