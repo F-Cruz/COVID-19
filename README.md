@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<script type='text/javascript' src='https://public.tableau.com/profile/felipe.cruz#!/vizhome/PainelLemobs/Painel1?publish=yes'></script>
+<script type='text/javascript' src='https://public.tableau.com/views/PainelLemobs/Painel1?:language=pt&:display_count=y&publish=yes&:origin=viz_share_link'></script>
   <div class='tableauPlaceholder' style='width: 800px; height: 600px;' >
   <object class='tableauViz' width='800' height='600' style='display:none;'>
   <param name='host_url' value='https://public.tableau.com' />
