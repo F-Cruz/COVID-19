@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/F-Cruz/COVID-19/edit/maste
 </script>
   <div class='tableauPlaceholder' style='width: 800px; height: 600px;' >
   <object class='tableauViz' width='800' height='600' style='display:none;'>
-  <param name='host_url' value='https://public.tableau.com' />
+  <param name='host_url' value='https://public.tableau.com/views' />
   <param name='site_root' value='' />
   <param name='name' value='PainelLemobs/Painel1' />		
   <param name='tabs' value='yes' />
