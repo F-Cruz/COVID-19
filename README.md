@@ -38,6 +38,8 @@ You can use the [editor on GitHub](https://github.com/F-Cruz/COVID-19/edit/maste
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
     </script>
+    
+    
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About
