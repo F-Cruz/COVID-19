@@ -39,7 +39,12 @@ You can use the [editor on GitHub](https://github.com/F-Cruz/COVID-19/edit/maste
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
     </script>
     
-    
+  
+  
+  
+  
+  
+  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About
