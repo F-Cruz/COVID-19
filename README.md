@@ -14,9 +14,9 @@ Syntax highlighted code block
 <script type='text/javascript' src='https://public.tableau.com/profile/felipe.cruz#!/vizhome/PainelLemobs/Painel1?publish=yes></script>
   <div class='tableauPlaceholder' style='width: 800px; height: 600px;' >
   <object class='tableauViz' width='800' height='600' style='display:none;'>
-  <param name='host_url' value='http://mysite.myserver.com' />
+  <param name='host_url' value='https://public.tableau.com' />
   <param name='site_root' value='' />
-  <param name='name' value='ProfitAnalysis/PainelLemobs' />		
+  <param name='name' value='PainelLemobs/Painel1' />		
   <param name='tabs' value='yes' />
   <param name='toolbar' value='yes' />
   <param name='filter' value=':original_view=yes' /></object></div>
